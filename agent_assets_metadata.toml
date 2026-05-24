@@ -1,0 +1,74 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "0B6kJaMK9UEUTeANTzusk"
+uri = "file://artifacts/portfolio/public/images/service-seo.png"
+type = "image"
+title = "seo-strategy-editorial"
+
+[[generated]]
+id = "j8CbkdxkZV_f0YWcnecW1"
+uri = "file://artifacts/portfolio/public/images/service-social.png"
+type = "image"
+title = "social-media-editorial"
+
+[[generated]]
+id = "j8UgbDjZYtmfD1Fdo-UT1"
+uri = "file://artifacts/portfolio/public/images/service-brand.png"
+type = "image"
+title = "brand-growth-editorial"
+
+[[generated]]
+id = "aEeYzITAQNFuIn0UCOj5a"
+uri = "file://artifacts/portfolio/public/images/work-vaarint.png"
+type = "image"
+title = "vaarint-seo-editorial"
+
+[[generated]]
+id = "RpGvButpV7esi08fm_m_G"
+uri = "file://artifacts/portfolio/public/images/work-caasto.png"
+type = "image"
+title = "caasto-organic-growth"
+
+[[generated]]
+id = "E4OJRqHJ63F1mJpYCsfsh"
+uri = "file://artifacts/portfolio/public/images/work-creator.png"
+type = "image"
+title = "creator-campaign-system"
+
+[[generated]]
+id = "MPTHmXKqiZlZQNnK1cPoQ"
+uri = "file://artifacts/portfolio/public/images/work-audit.png"
+type = "image"
+title = "brand-visibility-audit"
+
+[[generated]]
+id = "5o64-zQCM7mXfk7e_w2uK"
+uri = "file://artifacts/portfolio/public/images/work-localseo.png"
+type = "image"
+title = "local-seo-optimization"
+
+[[generated]]
+id = "qm275-yTD14DDH3Rpaqc6"
+uri = "file://artifacts/portfolio/public/images/work-socialbranding.png"
+type = "image"
+title = "social-media-branding"
+
+[[generated]]
+id = "KlgQTsoDjx7Zlv0c6o7rt"
+uri = "file://artifacts/portfolio/public/images/work-ranking.png"
+type = "image"
+title = "search-ranking-campaign"
+
+[[generated]]
+id = "6KdvIDFVcbTYfpVnc3joA"
+uri = "file://artifacts/portfolio/public/images/work-content.png"
+type = "image"
+title = "content-marketing-strategy"
+
+[[generated]]
+id = "dFEErNgxqdyMb1ZvAwhAx"
+uri = "file://artifacts/portfolio/public/images/work-performance.png"
+type = "image"
+title = "performance-seo-framework"
